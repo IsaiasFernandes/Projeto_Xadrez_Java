@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63229001-ed6f-40e6-89ba-acd1bc8890b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590624582004</updated>
-      <workItem from="1590624594644" duration="4923000" />
+      <workItem from="1590624594644" duration="5556000" />
+      <workItem from="1590698021005" duration="2738000" />
     </task>
     <servers />
   </component>
@@ -90,21 +89,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="491" y="82" width="374" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590628868949" />
-    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1590629914322">
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1590706883355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590629914322" />
-    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1590629914322">
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590706883355" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1590706883355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590629914322" />
-    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1590629914322">
+    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590706883355" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1590706883354">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590629914322" />
-    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1590629914322">
+    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590706883354" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1590706883355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590629914322" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590706883355" />
   </component>
 </project>
