@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="63229001-ed6f-40e6-89ba-acd1bc8890b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <workItem from="1590868989042" duration="5148000" />
       <workItem from="1590973014839" duration="2851000" />
       <workItem from="1591034034839" duration="4036000" />
-      <workItem from="1591122134772" duration="1108000" />
+      <workItem from="1591122134772" duration="4157000" />
     </task>
     <servers />
   </component>
@@ -95,21 +94,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="491" y="82" width="374" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1590975652501" />
-    <state width="1324" height="221" key="GridCell.Tab.0.bottom" timestamp="1591123385748">
+    <state width="1324" height="221" key="GridCell.Tab.0.bottom" timestamp="1591133246520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591123385748" />
-    <state width="1324" height="221" key="GridCell.Tab.0.center" timestamp="1591123385747">
+    <state width="1324" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591133246520" />
+    <state width="1324" height="221" key="GridCell.Tab.0.center" timestamp="1591133246520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="221" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591123385747" />
-    <state width="1324" height="221" key="GridCell.Tab.0.left" timestamp="1591123385747">
+    <state width="1324" height="221" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591133246520" />
+    <state width="1324" height="221" key="GridCell.Tab.0.left" timestamp="1591133246520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="221" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591123385747" />
-    <state width="1324" height="221" key="GridCell.Tab.0.right" timestamp="1591123385748">
+    <state width="1324" height="221" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591133246520" />
+    <state width="1324" height="221" key="GridCell.Tab.0.right" timestamp="1591133246520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1324" height="221" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591123385748" />
+    <state width="1324" height="221" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1591133246520" />
   </component>
 </project>
