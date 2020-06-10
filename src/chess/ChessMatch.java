@@ -128,6 +128,10 @@ public class ChessMatch {
         board.placePiece(newPiece, pos);
         piecesOnTheBoard.add(newPiece);
 
+        check = testCheck(currentPlayer) ? true : false;
+
+        checkMate = testCheckMate(currentPlayer) ? true : false;
+
         return newPiece;
 
     }
